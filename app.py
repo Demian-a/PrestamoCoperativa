@@ -40,7 +40,7 @@ def mostrar_login():
         display: flex;
         justify-content: center;
         align-items: center;
-        min-height: 90vh;
+        min-height: 50vh;
     }
     .login-card {
         max-width: 420px;
