@@ -8,8 +8,9 @@ import sys
 import pandas as pd
 import streamlit as st
 
+
 st.set_page_config(
-    page_title="Sistema de Evaluacion de Creditos - Cooperativa Cafetalera",
+    page_title="sistema de evaluacion de creditos - cooperativa cafetalera",
     page_icon="\U0001F33F",
     layout="wide",
     initial_sidebar_state="expanded"
